@@ -46,6 +46,22 @@ header .search button{
 header .search button:hover{
   background:#555;
 }
-  
-  
-  
+  /* unvisited link */
+a:link {
+  color: white;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: grey;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
