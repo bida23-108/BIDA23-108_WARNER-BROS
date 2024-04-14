@@ -104,12 +104,12 @@ a:link {
 
 /* visited link */
 a:visited {
-  color: green;
+  color: yellow;
 }
 
 /* mouse over link */
 a:hover {
-  color: grey;
+  color: green;
 }
 
 /* selected link */
