@@ -19,6 +19,7 @@ header .search{
   display:flex;
   align-items: center;
   flex:1;
+  float: right;
 }
 header .search form{ 
   width: 100%;
@@ -115,7 +116,4 @@ a:hover {
 /* selected link */
 a:active {
   color: blue;
-}
-.search{
-  float: right;
 }
