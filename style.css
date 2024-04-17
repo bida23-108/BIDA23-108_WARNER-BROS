@@ -19,7 +19,7 @@ header .search{
   display:flex;
   align-items: center;
   flex:1;
-  float: right;
+  float: top right;
 }
 header .search form{ 
   width: 100%;
