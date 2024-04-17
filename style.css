@@ -5,17 +5,7 @@ header{
   display: flex;
   justify-content: space-between;
   align-items: center;
-}
-header .logo{
-  display: flex;
-  align-items: center;
-}
-header .logo a{
-  color: #fff;
-  text-decoration: none;
-  font-size: 2rem;
-}
-
+  
 ul {
   list-style-type: none;
   margin: 0;
@@ -25,7 +15,7 @@ ul {
 }
 
 li {
-  float: center;
+  float: right;
 }
 
 li a, .dropbtn {
