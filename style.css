@@ -94,3 +94,18 @@ a:active {
       background-size: cover;
       background-position: center;
     }
+input[type="text"]:focus,
+  input[type="email"]:focus,
+  input:[type="password"]:focus {
+    outline: none;
+    border-colour: yellow;
+  }
+
+button:focus {
+  outline: none;
+}
+  @media(max-width: 600px) {
+    .container{
+      width: 90%
+    }
+  }
