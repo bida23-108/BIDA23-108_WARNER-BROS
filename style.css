@@ -76,15 +76,8 @@ a:hover {
 a:active {
   color: blue;
 }
-  body {
-    margin: 0;
-    padding: 0;
-    background-image: URL(Picsart_24-04-20_22-49-15-696.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-
-    .photo-wrapper {
+  
+    .container {
       position:fixed;
       top: 0;
       right:0;
