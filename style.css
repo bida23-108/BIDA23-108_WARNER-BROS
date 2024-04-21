@@ -4,14 +4,6 @@ header{
   width: 100%;
   display: flex;
   justify-content: space-between;
-  align-items: center;
-  position: relative;
-}
-
-nav {
-  position: absolute;
-  top: 20px;
-  right: 20px;
 }
 ul {
   list-style-type: none;
